@@ -1,0 +1,41 @@
+form {
+  width: 300px;
+  color: #e1927d;
+  padding: 7px;
+}
+
+h1 {
+  color: #e1927d;
+  padding: 5px;
+}
+
+button {
+  color: #e1927d;
+  padding: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 5px;
+}
+
+input:focus, text area:focus {
+  box-shadow: 0 0 4px rgba(255, 0, 0, 0.5)
+  outline: none;
+  border: 1px solid #e1927d;
+}
+
+:-ms-input-placeholder {
+  color: #e1927d;
+  opacity: 1;
+}
+
+::placeholder {
+  color: #e1927d;
+  opacity: 1;
+}
+
+::-ms-input-placeholder {
+  color: #e1927d;
+  opacity: 1;
+}
