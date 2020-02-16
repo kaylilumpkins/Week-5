@@ -21,7 +21,6 @@ input {
 
 input:focus, text area:focus {
   box-shadow: 0 0 4px rgba(255, 0, 0, 0.5)
-  outline: none;
   border: 1px solid #e1927d;
 }
 
